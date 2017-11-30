@@ -20,6 +20,7 @@ I only support operating systems that Microsoft supports (is actively patching).
   <li>Double click the "ClipRead.suo".</li>
 
 <li>Hit the "run" button (looks like a green "play" button). This will make and run a copy of the program. You can also build one with the build menu. Select "debug" or "release" to make a debug or release build. The difference between debug or release builds is outside the scope of this readme. </li>
+</ol>
 
 <p>You can find both builds in the "ClipRead\bin" folder.</p>
 
