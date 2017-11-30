@@ -1,0 +1,11 @@
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\bin\Debug\ClipPlay.exe
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\bin\Debug\ClipPlay.pdb
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\obj\x86\Debug\ClipPlay.Form1.resources
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\obj\x86\Debug\ClipPlay.Properties.Resources.resources
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\obj\x86\Debug\ClipPlay.exe
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\obj\x86\Debug\ClipPlay.pdb
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\bin\Debug\Zhwang.SuperNotifyIcon.dll
+C:\Users\Marchant\AppData\Local\Temporary Projects\ClipPlay\bin\Debug\Zhwang.SuperNotifyIcon.pdb
