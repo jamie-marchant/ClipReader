@@ -15,7 +15,7 @@ A Text-To-Speach reader that reads from the clipboard. Reads any text you copy t
 I only support operating systems that Microsoft supports (is actively patching). This may run on older systems, but I don't test it regularly on those systems and won't investigate bugs on those systems. 
 
 <h4>Installing</h4>
-<h3>For Visual Studio:</h3>
+<h5>For Visual Studio:</h3>
 <ol>
   <li>Double click the "ClipRead.suo".</li>
 
@@ -23,7 +23,7 @@ I only support operating systems that Microsoft supports (is actively patching).
 
 <p>You can find both builds in the "ClipRead\bin" folder.</p>
 
-<h3>For Non-Visual Studio:</h3>
+<h5>For Non-Visual Studio:</h3>
 <p>Read about this here: https://superuser.com/questions/604953/how-can-i-compile-a-net-project-without-having-visual-studio-installed.</p>
 
 <p>I did not use "NuGet" so don't worry about that part.</p>
