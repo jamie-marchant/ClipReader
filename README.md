@@ -44,7 +44,7 @@ There are no "Automated Tests" for this project.
 </p>
 
 <h4>Contributing</h4>
-<p>Please contact me to contribute. To reduce the chances of spammer "bots" reading my email, I will not provide it outright. The first part of it is "contributetoclipreader". There is then an "@" as usual and it ends with my domain name (jamiemarchant.info).</p>
+<p>Please contact me to contribute. To reduce the chances of spammer "bots" reading my email, I will not provide it outright. The first part of it is "contributetoclipreader". There is then an "@" as usual and it ends with my domain name (jamiemarchant.ca).</p>
 
 <p>In your email, please send the source code you wish to contribute. Please wait patiently for a response as I do not check this email frequently.</p>
 
